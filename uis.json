@@ -2,6 +2,11 @@
   "uis":
     [
       {
+        "platform": "Windows", "name": "MFC", 
+        "release": "1992", "releaseRef": "https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library", 
+        "supported": true, "eolRef": ""
+      },
+      {
         "platform": "Windows", "name": "Win32", 
         "release": "1993-07-27", "releaseRef": "https://en.wikipedia.org/wiki/Windows_NT_3.1", 
         "supported": true, "eolRef": ""
