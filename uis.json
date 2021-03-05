@@ -1,6 +1,10 @@
 {
   "uis":
     [
-      { "platform": "Windows", "name": "Win95", "release": "1995-08-15" }
+      {
+        "platform": "Windows", "name": "Win32", 
+        "release": "1993-07-27", "releaseRef": "https://en.wikipedia.org/wiki/Windows_NT_3.1", 
+        "supported": true, "eolRef": ""
+      }
     ]
 }
