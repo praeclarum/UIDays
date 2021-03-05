@@ -15,7 +15,13 @@
         "platform": "Windows", "name": "WTL", 
         "release": "2000-01-01", "releaseRef": "https://www.quora.com/What-is-the-mystery-behind-Microsofts-WTL-Windows-Template-Library-framework-that-was-very-similar-to-ATL-but-they-never-released", 
         "supported": true, "eolRef": ""
+      },
+      {
+        "platform": "Windows", "name": "WinForms",
+        "release": "2002-02-13", "releaseRef": "https://en.wikipedia.org/wiki/Windows_Forms", 
+        "supported": true, "eolRef": ""
       }
+      
       
     ]
 }
