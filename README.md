@@ -2,9 +2,11 @@
 
 Cataloging the release dates of various first-party UI frameworks by platform.
 
+The catalog is stored in [uis.json](uis.json)
+
 ## Platforms
 
-* Windows
-* Mac
 * Android
-* iOS
+* iPhone/iPad
+* Mac
+* Windows
