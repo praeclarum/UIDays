@@ -1,0 +1,6 @@
+{
+  "uis":
+    [
+      { "platform": "Windows", "name": "Win95", "release": "1995-08-15" }
+    ]
+}
