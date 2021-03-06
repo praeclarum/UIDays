@@ -2,26 +2,61 @@
   "uis":
     [
       {
-        "platform": "Windows", "name": "MFC", 
+        "platforms": ["Windows"], "name": "Visual Basic", 
+        "release": "1991-05-20", "releaseRef": "https://www.i-programmer.info/news/98-languages/9757-visual-basic-reaches-25th-birthday.html", 
+        "eol": "2008-04-08", "eolRef": "https://docs.microsoft.com/en-us/previous-versions/visualstudio/visual-basic-6/visual-basic-6-support-policy",
+        "supported": true
+      },
+      {
+        "platforms": ["Windows"], "name": "MFC", 
         "release": "1992-01-01", "releaseRef": "https://en.wikipedia.org/wiki/Microsoft_Foundation_Class_Library", 
         "supported": true, "eolRef": ""
       },
       {
-        "platform": "Windows", "name": "Win32", 
+        "platforms": ["Windows"], "name": "Win32", 
         "release": "1993-07-27", "releaseRef": "https://en.wikipedia.org/wiki/Windows_NT_3.1", 
         "supported": true, "eolRef": ""
       },
       {
-        "platform": "Windows", "name": "WTL", 
+        "platforms": ["Windows"], "name": "WTL", 
         "release": "2000-01-01", "releaseRef": "https://www.quora.com/What-is-the-mystery-behind-Microsofts-WTL-Windows-Template-Library-framework-that-was-very-similar-to-ATL-but-they-never-released", 
         "supported": true, "eolRef": ""
       },
       {
-        "platform": "Windows", "name": "WinForms",
+        "platforms": ["Windows"], "name": "WinForms",
         "release": "2002-02-13", "releaseRef": "https://en.wikipedia.org/wiki/Windows_Forms", 
         "supported": true, "eolRef": ""
+      },
+      {
+        "platforms": ["Windows"], "name": "WPF",
+        "release": "2006-11-21", "releaseRef": "https://en.wikipedia.org/wiki/Windows_Presentation_Foundation", 
+        "supported": true, "eolRef": ""
+      },
+      {
+        "platforms": ["Web"], "name": "Silverlight",
+        "release": "2007-09-05", "releaseRef": "https://en.wikipedia.org/wiki/Microsoft_Silverlight",
+        "eol": "2021-10-12", "eolRef": "https://support.microsoft.com/en-us/windows/silverlight-end-of-support-0a3be3c7-bead-e203-2dfd-74f0a64f1788",
+        "supported": true
+      },
+      {
+        "platforms": ["Windows"], "name": "WinRT",
+        "release": "2012-08-01", "releaseRef": "https://en.wikipedia.org/wiki/Windows_8", 
+        "supported": true, "eolRef": ""
+      },
+      {
+        "platforms": ["Windows", "Web"], "name": "WinJS",
+        "release": "2012-10-26", "releaseRef": "https://en.wikipedia.org/wiki/WinJS", 
+        "supported": true, "eolRef": ""
+      },
+      {
+        "platforms": ["Windows"], "name": "UWP",
+        "release": "2015-07-29", "releaseRef": "https://en.wikipedia.org/wiki/Windows_10", 
+        "supported": true, "eolRef": ""
+      },
+      {
+        "platforms": ["Windows"], "name": "WinUI3",
+        "release": "2021-03", "releaseRef": "https://github.com/microsoft/microsoft-ui-xaml/blob/master/docs/roadmap.md", 
+        "supported": true, "eolRef": ""
       }
-      
-      
     ]
 }
